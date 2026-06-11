@@ -1,7 +1,7 @@
 {
   "name": "Vanguard",
   "short_name": "Vanguard",
-  "description": "2D top-down arena shooter — hold the line against the swarm",
+  "description": "2D side-scrolling run-and-gun — survive the breach corridor",
   "start_url": "/game/",
   "scope": "/game/",
   "display": "standalone",

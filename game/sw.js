@@ -1,4 +1,4 @@
-const CACHE_NAME = 'vanguard-v1';
+const CACHE_NAME = 'vanguard-v2';
 const ASSETS = [
   '/game/',
   '/game/index.html',
